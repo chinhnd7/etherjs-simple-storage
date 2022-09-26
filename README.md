@@ -1,14 +1,14 @@
 # Deploy contract with raw Javascript: Etherjs
 
-## Simple Storage Contract was created at address: 0x462224311f0772F470395B5BE66c16810eF7589a
+Simple Storage Contract was created at address: 0x462224311f0772F470395B5BE66c16810eF7589a
 
-## Compile solidity contract by `solc`
+Compile solidity contract by `solc`
 
-## Address of Metamask wallet (Goerli Test Network): 0xd795C5458572F5958DA0Ba915EA380b581C5f316
+Address of Metamask wallet (Goerli Test Network): 0xd795C5458572F5958DA0Ba915EA380b581C5f316
 
-## Private key of wallet was encrypted by encryptKey.js and wasn't storaged in `.env` file.
+Private key of wallet was encrypted by encryptKey.js and wasn't storaged in `.env` file.
 
-## In deploy.js file, **Contract** was deployed by **ContractFactory**.
+In deploy.js file, **Contract** was deployed by **ContractFactory**.
 
 We have to pass `abi`, `binary` and `wallet` to **ContractFactory**
 
